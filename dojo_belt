@@ -225,3 +225,4 @@ getgenv().Config = {
 	["Auto Accept Quest Fishing"] = false,
 	["Value Speed Boat"] = 200
 }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))() 
