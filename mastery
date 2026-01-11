@@ -226,3 +226,4 @@ getgenv().Config = {
 	["Auto Accept Quest Fishing"] = false,
 	["Hop Server Find Boss"] = false
 }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))() 
