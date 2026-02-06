@@ -1,0 +1,28 @@
+getgenv().Config = {
+	["Shoot Heart When Ice Spike Breaks"] = false,
+	["Drive Boat To Tiki"] = false,
+	["No Frog"] = false,
+	["Random Devil Fruit"] = false,
+	["Use skill fast dont hold"] = true,
+	["Drive Boat To Hydra"] = false,
+	["Webhook Shoot Heart Leviathan"] = false,
+	["Webhook Drive To Tiki/Hydra"] = false,
+	["Webhook Destroy IDK"] = false,
+	["Auto Farm Material Sanguine Art"] = true,
+	["Webhook Unlock Draco v4"] = false,
+	["Auto light the torch"] = false,
+	["Use New  Method Drive"] = false,
+	["Use Click M1 Fruit"] = false,
+	["Use New Method Shoot Heart"] = false,
+	["Ping Discord"] = false,
+	["Select Owner Boat Beast Hunter"] = "tenacc",
+	["Boost Fps"] = true,
+	["Value Collect Chest to Hop"] = "80",
+	["Webhook Find Leviathan"] = false,
+	["Auto Chest Hop"] = true,
+	["Auto Craft Scroll"] = false,
+	["Account Buy Boat"] = false,
+	["Auto Store Fruit"] = false,
+	["Start Hunt Leviathan"] = true
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/refs/heads/main/BananaCat-KaitunLevi.lua"))()
