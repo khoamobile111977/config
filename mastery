@@ -222,7 +222,6 @@ getgenv().Config = {
 	["Hop Find Dough King"] = false,
 	["Auto Pull Lever"] = false,
 	["Value Damage Multi Segments"] = 30000,
-	["Speed Tween"] = 350,
 	["Auto Accept Quest Fishing"] = false,
 	["Hop Server Find Boss"] = false
 }
