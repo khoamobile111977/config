@@ -66,7 +66,6 @@ getgenv().Config = {
 	["Auto Yama"] = false,
 	["Auto Pull Lever"] = false,
 	["Auto Get Ghoul"] = false,
-	["Speed Tween"] = 300,
 	["Summon Darkbeard"] = false,
 	["Hop Find Dough King"] = false,
 	["Auto Finish Train Quest"] = false,
