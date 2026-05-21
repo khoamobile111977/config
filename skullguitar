@@ -237,7 +237,6 @@ getgenv().Config = {
 	["Hop Find Dough King"] = false,
 	["Auto Get Fully Cyborg"] = false,
 	["Attack Darkbeard"] = false,
-	["Speed Tween"] = 350,
 	["Auto Accept Quest Fishing"] = false,
 	["Hop Server Find Boss"] = false
 }
