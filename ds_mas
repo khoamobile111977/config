@@ -64,7 +64,6 @@ getgenv().Config = {
 	["Spam Join"] = false,
 	["Auto Pull Lever"] = false,
 	["Auto Farm Mastery 600 Sword In Inventory"] = false,
-	["Speed Tween"] = 350,
 	["Tween Safe if have Items"] = false,
 	["Auto Yama"] = false,
 	["Hop Find Dough King"] = false,
