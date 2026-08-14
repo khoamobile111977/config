@@ -3,6 +3,7 @@ getgenv().Config = {
 	["Noti Profile"] = false,
 	["Attack Darkbeard"] = false,
 	["Tween Until Have Sea Event"] = false,
+	["Speed Tween "] = 200,
 	["No Frog"] = false,
 	["Auto Dodge Skill Mobs"] = false,
 	["Ignore Craft Volcanic Magnet"] = false,
