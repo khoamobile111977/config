@@ -11,6 +11,7 @@ getgenv().Config = {
 	["Auto Turn On V3"] = false,
 	["Tween Boat To Frozen Dimension"] = false,
 	["Change Size Reel"] = false,
+	["Speed Tween "] = 200,
 	["Auto Aimbot Gun"] = false,
 	["Distance Teleport Y"] = 800,
 	["Auto New World"] = false,
