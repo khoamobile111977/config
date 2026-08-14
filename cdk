@@ -16,6 +16,7 @@ getgenv().Config = {
 	["Auto New World"] = false,
 	["Select Method Farm"] = "Farm Bones",
 	["Drive Boat To Hydra"] = false,
+	["Speed Tween "] = 200,
 	["Auto Summon Soul Ember"] = false,
 	["Summon Dough King"] = false,
 	["Auto Store Fruit"] = false,
