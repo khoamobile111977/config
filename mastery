@@ -6,6 +6,7 @@ getgenv().Config = {
 	["No Frog"] = false,
 	["Auto Dodge Skill Mobs"] = false,
 	["Ignore Craft Volcanic Magnet"] = false,
+	["Speed Tween "] = 200,
 	["Auto Trade Azure Ember"] = false,
 	["Auto Turn On V3"] = false,
 	["Tween Boat To Frozen Dimension"] = false,
