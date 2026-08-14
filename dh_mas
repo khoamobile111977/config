@@ -101,6 +101,7 @@ getgenv().Config = {
 	["Hop Server [ Haki color or Legendary Sword]"] = false,
 	["Auto Buy Haki Color"] = false,
 	["Auto Attack Leviathan"] = false,
+	["Speed Tween "] = 200,
 	["Farm Observation [ Hop Server ]"] = false,
 	["Distance Farm Aura"] = 300,
 	["Auto UP Observation V2"] = false,
