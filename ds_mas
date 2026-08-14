@@ -14,6 +14,7 @@ getgenv().Config = {
 	["Distance Teleport Y"] = 800,
 	["Auto New World"] = false,
 	["Select Method Farm"] = "Farm Bones",
+	["Speed Tween "] = 200,
 	["Drive Boat To Hydra"] = false,
 	["Auto Summon Soul Ember"] = false,
 	["Summon Dough King"] = false,
