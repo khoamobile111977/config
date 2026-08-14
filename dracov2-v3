@@ -24,6 +24,7 @@ getgenv().Config = {
 	["Account Pick Slot Raid"] = false,
 	["Auto Multi Raid"] = false,
 	["Change WalkSpeed"] = false,
+	["Speed Tween "] = 200,
 	["ESP Island"] = false,
 	["Multi Find Leviathan"] = false,
 	["Auto Fishing"] = false,
